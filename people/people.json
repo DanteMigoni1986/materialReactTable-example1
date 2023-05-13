@@ -1,0 +1,71 @@
+[
+    {
+
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "261 Erdman Ford",
+      "city": "East Daphne",
+      "state": "Kentucky",
+      "income": 4000,
+      "expenses": 2000
+    },
+    {
+      
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "address": "769 Dominic Grove",
+      "city": "Columbus",
+      "state": "Ohio",
+      "income": 5000,
+      "expenses": 2500
+    },
+    {
+      
+      "firstName": "Joe",
+      "lastName": "Doe",
+      "address": "566 Brakus Inlet",
+      "city": "South Linda",
+      "state": "West Virginia",
+      "income": 6200,
+      "expenses": 4500
+    },
+    {
+      
+      "firstName": "Kevin",
+      "lastName": "Vandy",
+      "address": "722 Emie Stream",
+      "city": "Lincoln",
+      "state": "Nebraska",
+      "income": 4800,
+      "expenses": 1200
+    },
+    {
+      
+      "firstName": "Joshua",
+      "lastName": "Rolluffs",
+      "address": "32188 Larkin Turnpike",
+      "city": "Omaha",
+      "state": "Nebraska",
+      "income": 3200,
+      "expenses": 1500
+    },
+    {
+    
+      "firstName": "Dante",
+      "lastName": "Migoni",
+      "address": "Whatever Street",
+      "city": "Whatever City",
+      "state": "Whatever State",
+      "income": 4700,
+      "expenses": 3600
+    },
+    {
+      "firstName": "Juan Gabriel",
+      "lastName": "Hernandez",
+      "address": "Whatever Street",
+      "city": "Whatever City",
+      "state": "Whatever State",
+      "income": 8000,
+      "expenses": 2200
+    }
+  ]
